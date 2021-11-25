@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycache__
+eVproyectoSintacticoM
+/static
+.DS_Store
